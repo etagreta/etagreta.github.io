@@ -1,13 +1,18 @@
 # Greta Coraglia
 
-I am a PhD student in the [Mathematics Department at the University of Genova](https://www2.dima.unige.it/), working under the supervision of [Pino Rosolini](https://www.dima.unige.it/~rosolini/).
+I am a PhD student in the [Mathematics Department at the University of Genova](https://www2.dima.unige.it/), working under the supervision of [Pino Rosolini](https://www.dima.unige.it/~rosolini/). I am interested in logic, category theory, and theoretical computer science.
 
-### Markdown
+GLG e ITACA
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Research
 
-```markdown
-Syntax highlighted code block
+- _Context, judgement, deduction._ (nov. 2021), j/w Ivan Di Liberti, submitted, [arXiv:2111.09438](https://arxiv.org/abs/2111.09438)
+
+### Teaching
+
+- c
+
+contacts
 
 # Header 1
 ## Header 2
