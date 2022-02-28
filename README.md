@@ -20,8 +20,6 @@ I am a member of [our departments group](http://logic.dima.unige.it/), of the [L
 
 - Seminario permanente, _Un numero finito di idee sulla definizione di infinito_, [ZEST!](https://www.facebook.com/ZEST.sapere.aude/), in the middle of 2020 ([recording](https://www.youtube.com/watch?v=JAulXUkkTXQ))
 
-<br />
-
 #### Contacts
 
 coraglia [at] dima [dot] unige [dot] it
