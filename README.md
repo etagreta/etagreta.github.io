@@ -7,6 +7,7 @@ I am a member of [our departments group](http://logic.dima.unige.it/), of the [L
 ### Research
 
 - _Context, judgement, deduction_ (Nov. 2021) j/w Ivan Di Liberti, submitted, [arXiv:2111.09438](https://arxiv.org/abs/2111.09438)
+- _A categorical perspective on Heyting-valued sets_ (Lug. 2019) Master's thesis, awarded [AILA](https://www.ailalogica.it/)'s [Best Thesis in Logic](https://www.ailalogica.it/premi/premio-32/) award, 2020 ed.
 
 ### Some talks
 
@@ -23,5 +24,4 @@ coraglia [at] dima [dot] unige [dot] it
 
 
 Via Dodecaneso 35
-
 16146 Genova (GE)
