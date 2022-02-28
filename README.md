@@ -16,7 +16,11 @@ I am a member of [our departments group](http://logic.dima.unige.it/), of the [L
 - PhD^2, _Categories as syntax_, Milano, 16 December 2021
 - BYMAT 2020, _How to catch a non-set_, Valencia/online, 1 December 2020
 
+### Miscellaneous
 
+- Seminario permanente, _Un numero finito di idee sulla definizione di infinito_, [ZEST!](https://www.facebook.com/ZEST.sapere.aude/), in the middle of 2020 ([recording](https://www.facebook.com/ZEST.sapere.aude/))
+
+\\
 
 #### Contacts
 
