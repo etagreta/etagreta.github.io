@@ -27,5 +27,5 @@ I am a member of [our departments group](http://logic.dima.unige.it/), of the [L
 coraglia [at] dima [dot] unige [dot] it
 
 
-Via Dodecaneso 35
+Via Dodecaneso 35  
 16146 Genova (GE)
