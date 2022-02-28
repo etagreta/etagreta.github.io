@@ -7,7 +7,7 @@ I am a member of [our departments group](http://logic.dima.unige.it/), of the [L
 ### Research
 
 - _Context, judgement, deduction_ (j/w Ivan Di Liberti), submitted, [arXiv:2111.09438](https://arxiv.org/abs/2111.09438), November 2021
-- _A categorical perspective on Heyting-valued sets_, Master's thesis, awarded [AILA](https://www.ailalogica.it/)'s [Best Thesis in Logic](https://www.ailalogica.it/premi/premio-32/) award, July 2019
+- _A categorical perspective on Heyting-valued sets_, Master's thesis, awarded [AILA](https://www.ailalogica.it/)'s [Best Thesis in Logic](https://www.ailalogica.it/premi/premio-32/) prize, July 2019
 
 ### Some talks
 
