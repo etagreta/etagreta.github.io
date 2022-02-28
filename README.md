@@ -6,7 +6,7 @@ I am a member of [our departments group](http://logic.dima.unige.it/), of the [L
 
 ### Research
 
-- _Context, judgement, deduction._ (nov. 2021) j/w Ivan Di Liberti, submitted, [arXiv:2111.09438](https://arxiv.org/abs/2111.09438)
+- _Context, judgement, deduction_ (Nov. 2021) j/w Ivan Di Liberti, submitted, [arXiv:2111.09438](https://arxiv.org/abs/2111.09438)
 
 ### Some talks
 
@@ -15,16 +15,13 @@ I am a member of [our departments group](http://logic.dima.unige.it/), of the [L
 - PhD^2, _Categories as syntax_, Milano, 16 December 2021
 - BYMAT 2020, _How to catch a non-set_, Valencia/online, 1 December 2020
 
-### Teaching
-
-- bu bu
 
 
-
-
-### Contacts
+#### Contacts
 
 coraglia [at] dima [dot] unige [dot] it
 
+
 Via Dodecaneso 35
+
 16146 Genova (GE)
