@@ -2,6 +2,8 @@
 
 I am a PhD student in the [Mathematics Department at the University of Genova](https://www2.dima.unige.it/), working under the supervision of [Pino Rosolini](https://www.dima.unige.it/~rosolini/). I am interested in logic, category theory, and theoretical computer science.
 
+I am a member of Genova Logic group
+
 GLG e ITACA
 
 ### Research
