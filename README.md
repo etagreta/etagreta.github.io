@@ -2,7 +2,7 @@
 
 I am a PhD student in the [Mathematics Department at the University of Genova](https://www2.dima.unige.it/), working under the supervision of [Pino Rosolini](https://www.dima.unige.it/~rosolini/). I am interested in logic, category theory, and theoretical computer science.
 
-I am a member of [our departments group](http://logic.dima.unige.it/), of the [Logic Group](http://logicgroup.altervista.org/), and of the [ItaCa Project](https://progetto-itaca.github.io/).
+I am a member of [our department's group](http://logic.dima.unige.it/), of the [Logic Group](http://logicgroup.altervista.org/), and of the [ItaCa Project](https://progetto-itaca.github.io/).
 
 ### Research
 
