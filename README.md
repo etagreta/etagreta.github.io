@@ -11,7 +11,7 @@ I am a member of [our department's group](http://logic.dima.unige.it/), of the i
 
 ### Some talks
 
-- ItaCa Fest, _Comonads for dependent types_, online, 19 May 2022 ([slides](docs/coraglia_itacafest2022.pdf)
+- ItaCa Fest, _Comonads for dependent types_, online, 19 May 2022 ([slides](docs/coraglia_itacafest2022.pdf))
 - TallCat, _Coding deductive systems into a 2-category_, Tallinn, 5 May 2022 - courtesy of the [CSM group](https://compose.ioc.ee/)
 - Logic and higher structures, _A 2-categorical representation of deduction_, CIRM Marseille, 21 February 2022 ([slides](docs/coraglia_li2022.pdf))
 - ItaCa Workshop, _Context, judgement, deduction_, Genova, 20 December 2021 ([recording](https://www.youtube.com/watch?v=lfm8HH5gLyU&t=15s))
