@@ -18,14 +18,15 @@ I am a member of [our department's group](http://logic.dima.unige.it/), of the i
 - PhD^2, _Categories as syntax_, Milano, 16 December 2021
 - BYMAT 2020, _How to catch a non-set_, Valencia/online, 1 December 2020
 
-### Where to next?
-
-- giving a talk at TACL, Coimbra, 20-24 June 2022
-- participating in the [Adjoint School](https://adjointschool.com/2022.html) research week, Glasgow, 11-15 July 2022
-
 ### Miscellaneous
 
 - Seminario permanente, _Un numero finito di idee sulla definizione di infinito_, [ZEST!](https://www.facebook.com/ZEST.sapere.aude/), in the middle of 2020 ([recording](https://www.youtube.com/watch?v=JAulXUkkTXQ))
+
+
+#### Where to next?
+
+- giving a talk at TACL, Coimbra, 20-24 June 2022
+- participating in the [Adjoint School](https://adjointschool.com/2022.html) research week, Glasgow, 11-15 July 2022
 
 #### Contacts
 
