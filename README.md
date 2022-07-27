@@ -23,7 +23,7 @@ I am a member of [our department's group](http://logic.dima.unige.it/), of the i
 
 ### Miscellaneous
 
-- Guest post, _Identity types in context_ (j/w Shreya Arya), on the [n-Category Café](https://golem.ph.utexas.edu/category/2022/07/identity_types_in_context.html#more)
+- Guest post, _Identity types in context_ (j/w Shreya Arya), on the n-Category Café, July 2022 ([here](https://golem.ph.utexas.edu/category/2022/07/identity_types_in_context.html#more))
 - Seminario permanente, _Un numero finito di idee sulla definizione di infinito_, [ZEST!](https://www.facebook.com/ZEST.sapere.aude/), in the middle of 2020 ([recording](https://www.youtube.com/watch?v=JAulXUkkTXQ))
 
 
