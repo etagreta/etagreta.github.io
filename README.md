@@ -13,6 +13,8 @@ I am a member of [our department's group](http://logic.dima.unige.it/), of the i
 
 ### Some talks
 
+- ItaCa Workshop, _A fuzzy theory of types_, Pisa, 21 December 2022 ([slides](\docs/itacaws2022_coraglia_handout.pdf))
+- AILA XXVII Incontro di Logica, Caserta, 12 September 2022
 - TACL, _Deduction via 2-category theory_, Coimbra, 24 June 2022
 - ItaCa Fest, _Comonads for dependent types_, online, 19 May 2022 ([slides](docs/coraglia_itacafest2022.pdf),[recording](https://www.youtube.com/watch?v=MZiqte09Tpw))
 - TallCat, _Coding deductive systems into a 2-category_, Tallinn, 5 May 2022 - courtesy of the [CSM group](https://compose.ioc.ee/)
@@ -29,11 +31,11 @@ I am a member of [our department's group](http://logic.dima.unige.it/), of the i
 
 ### ... where to next?
 
-- giving a talk at AILA's XXVII Incontro di Logica, Caserta, 12-15 September 2022
+- somewhere far far away, writing my dissertation
 
 <!----#### Contacts
 
-coraglia [at] dima [dot] unige [dot] it
+[last name] [at] dima [dot] unige [dot] it
 
 
 Via Dodecaneso 35  
