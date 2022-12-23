@@ -6,6 +6,7 @@ I am a member of [our department's group](http://logic.dima.unige.it/), of the i
 
 ### Research
 
+- _On the fibration of algebras_ (j/ww Davide Castelnovo and Fosco Loregian), ongoing and stuck ([help us](https://youtu.be/Z1SIYpMWWLU?t=2957))
 - _Fuzzy type theory for opinion dynamics_ ([Adjoint School](https://adjointschool.com/2022.html) project tutored by Paige North), ongoing
 - _Comonads for dependent types_ (j/w Jacopo Emmenegger), in preparation
 - _Context, judgement, deduction_ (j/w Ivan Di Liberti), under review, [arXiv:2111.09438](https://arxiv.org/abs/2111.09438), November 2021
