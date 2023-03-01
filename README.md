@@ -4,6 +4,8 @@ I am a PhD student in the [Mathematics Department at the University of Genova](h
 
 I am a member of [our department's group](http://logic.dima.unige.it/), of the interdepartimental [Logic Group](http://logicgroup.altervista.org/), and of the [ItaCa Project](https://progetto-itaca.github.io/).
 
+Soon I'll be moving to the [LUCI Lab](https://luci.unimi.it/) at the University of Milan.
+
 ### Research
 
 - _On the fibration of algebras_ (j/w Davide Castelnovo and Fosco Loregian), ongoing and stuck: [help us!](https://youtu.be/Z1SIYpMWWLU?t=2957)
@@ -32,16 +34,5 @@ I am a member of [our department's group](http://logic.dima.unige.it/), of the i
 
 ### ... where to next?
 
-- to the [LUCI Lab](https://luci.unimi.it/) at the University of Milan
-
-<!----#### Contacts
-
-[last name] [at] dima [dot] unige [dot] it
-
-
-Via Dodecaneso 35  
-16146 Genova (GE)--->
-
-<!----#### also
-
-you should know about [Azat Miftakhov](https://caseazatmiftakhov.org/)--->
+- invited to the [Workshop on Homotopy Type Theory/Univalent Foundations](https://hott-uf.github.io/2023/), Vienna, 22-23 April 2023
+- participating to the [Logic Colloquium](https://lc2023.unimi.it/), Milan, 5-9 June 2023
