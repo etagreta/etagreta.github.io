@@ -40,8 +40,8 @@ I am a member of [our department's group](http://logic.dima.unige.it/), of the i
 
 
 Via Dodecaneso 35  
-16146 Genova (GE)
+16146 Genova (GE)--->
 
-#### also
+<!----#### also
 
 you should know about [Azat Miftakhov](https://caseazatmiftakhov.org/)--->
