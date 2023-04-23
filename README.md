@@ -16,7 +16,7 @@ Soon I'll be moving to the [LUCI Lab](https://luci.unimi.it/) at the University 
 
 ### Some talks
 
-- HoTT/UF Workshop, _A 2-dimensional analysis of comprehension_, 23 April 2023 ([slides](\docs/hottuf23-coraglia.pdf))
+- HoTT/UF Workshop, _A 2-dimensional analysis of comprehension_, 22 April 2023 ([slides](\docs/hottuf23-coraglia.pdf))
 - ItaCa Workshop, _A fuzzy theory of types_, Pisa, 21 December 2022 ([slides](\docs/itacaws2022_coraglia_handout.pdf))
 - AILA XXVII Incontro di Logica, Caserta, 12 September 2022
 - TACL, _Deduction via 2-category theory_, Coimbra, 24 June 2022
