@@ -36,4 +36,5 @@ Soon I'll be moving to the [LUCI Lab](https://luci.unimi.it/) at the University 
 ### ... where to next?
 
 - invited to the [Workshop on Homotopy Type Theory/Univalent Foundations](https://hott-uf.github.io/2023/), Vienna, 22-23 April 2023
+- joining the [WG6 meeting](https://europroofnet.github.io/wg6-vienna/) of COST, Vienna, 24-25 April 2023
 - participating to the [Logic Colloquium](https://lc2023.unimi.it/), Milan, 5-9 June 2023
