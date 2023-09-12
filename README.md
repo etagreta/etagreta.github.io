@@ -1,40 +1,40 @@
 # Greta Coraglia
 
-I am a PhD student in the [Mathematics Department at the University of Genova](https://www2.dima.unige.it/), working under the supervision of [Pino Rosolini](https://www.dima.unige.it/~rosolini/). I am interested in logic, category theory, and theoretical computer science.
+I am a postdoc with [LUCI Lab](https://luci.unimi.it/) at the University of Milan, working on the [BRIO](https://sites.unimi.it/brio/) project. I am also a member of the Scientific Committee of the [ItaCa](https://progetto-itaca.github.io/) community.
 
-I am a member of [our department's group](http://logic.dima.unige.it/), of the interdepartimental [Logic Group](http://logicgroup.altervista.org/), and of the [ItaCa Project](https://progetto-itaca.github.io/).
+I was previously a PhD student in the [Mathematics Department at the University of Genova](https://www2.dima.unige.it/), working under the supervision of [Pino Rosolini](https://www.dima.unige.it/~rosolini/) together with the rest of the [logic group](http://logic.dima.unige.it/) there.
 
-Soon I'll be moving to the [LUCI Lab](https://luci.unimi.it/) at the University of Milan.
+I am interested in logic, category theory, and theoretical computer science. To know more, you can have a look at my [PhD thesis](docs/coraglia_phdthesis-oneside2023.pdf).
 
 ### Research
 
-- _On the fibration of algebras_ (j/w Davide Castelnovo and Fosco Loregian), ongoing and stuck: [help us!](https://youtu.be/Z1SIYpMWWLU?t=2957)
-- _Fuzzy type theory for opinion dynamics_ ([Adjoint School](https://adjointschool.com/2022.html) project tutored by Paige North), ongoing
-- _Comonads for dependent types_ (j/w Jacopo Emmenegger), in preparation
-- _Context, judgement, deduction_ (j/w Ivan Di Liberti), under review, [arXiv:2111.09438](https://arxiv.org/abs/2111.09438), November 2021
-- _A categorical perspective on Heyting-valued sets_, Master's thesis, awarded [AILA](https://www.ailalogica.it/)'s [Best Thesis in Logic](https://www.ailalogica.it/premi/premio-32/) prize, July 2019
+_Categorical models of subtyping_ (j/w Jacopo Emmenegger), in preparation
+- TYPES 2023, _Categorical models of subtyping_, 15 June 2023 [recording](https://media.upv.es/#/portal/video/cbd0b3a0-3567-11ee-8317-3dc1d7f6252c)
 
-### Some talks
+_On the fibration of algebras_ (j/w Davide Castelnovo and Fosco Loregian), ongoing and stuck: [help us!](https://youtu.be/Z1SIYpMWWLU?t=2957)
 
-- HoTT/UF Workshop, _A 2-dimensional analysis of comprehension_, 22 April 2023 ([slides](\docs/hottuf23-coraglia.pdf))
+_Fuzzy type theory for opinion dynamics_ ([Adjoint School](https://adjointschool.com/2022.html) project tutored by Paige North), ongoing
 - ItaCa Workshop, _A fuzzy theory of types_, Pisa, 21 December 2022 ([slides](\docs/itacaws2022_coraglia_handout.pdf))
-- AILA XXVII Incontro di Logica, Caserta, 12 September 2022
-- TACL, _Deduction via 2-category theory_, Coimbra, 24 June 2022
+
+_A 2-dimensional analysis of comprehension_ (j/w Jacopo Emmenegger), in preparation
+- HoTT/UF Workshop, _A 2-dimensional analysis of comprehension_, 22 April 2023 ([slides](\docs/hottuf23-coraglia.pdf))
 - ItaCa Fest, _Comonads for dependent types_, online, 19 May 2022 ([slides](docs/coraglia_itacafest2022.pdf),[recording](https://www.youtube.com/watch?v=MZiqte09Tpw))
+
+_Context, judgement, deduction_ (j/w Ivan Di Liberti), under review, [arXiv:2111.09438](https://arxiv.org/abs/2111.09438), November 2021
 - TallCat, _Coding deductive systems into a 2-category_, Tallinn, 5 May 2022 - courtesy of the [CSM group](https://compose.ioc.ee/)
 - Logic and higher structures, _A 2-categorical representation of deduction_, CIRM Marseille, 21 February 2022 ([slides](docs/coraglia_li2022.pdf))
 - ItaCa Workshop, _Context, judgement, deduction_, Genova, 20 December 2021 ([recording](https://www.youtube.com/watch?v=lfm8HH5gLyU&t=15s))
-- PhD^2, _Categories as syntax_, Milano, 16 December 2021
-- BYMAT 2020, _How to catch a non-set_, Valencia/online, 1 December 2020
+
+_A categorical perspective on Heyting-valued sets_, Master's thesis, awarded [AILA](https://www.ailalogica.it/)'s [Best Thesis in Logic](https://www.ailalogica.it/premi/premio-32/) prize, July 2019
 
 ### Miscellaneous
 
+- An open source tool to detect BIAS in your predictive algorithm (using logic!): BRIOxAlkemy ([about](https://sites.unimi.it/brio/brio-x-alkemy/), [git repo](https://github.com/DLBD-Department/BRIO_x_Alkemy))
 - Guest post, _Identity types in context_ (j/w [Shreya Arya](https://shreyaarya.github.io/minimal/)), on the n-Category Café, July 2022 ([here](https://golem.ph.utexas.edu/category/2022/07/identity_types_in_context.html))
 - Seminario permanente, _Un numero finito di idee sulla definizione di infinito_, [ZEST!](https://www.facebook.com/ZEST.sapere.aude/), in the middle of 2020 ([recording](https://www.youtube.com/watch?v=JAulXUkkTXQ))
 
 
 ### ... where to next?
 
-- invited to the [Workshop on Homotopy Type Theory/Univalent Foundations](https://hott-uf.github.io/2023/), Vienna, 22-23 April 2023
-- joining the [WG6 meeting](https://europroofnet.github.io/wg6-vienna/) of COST, Vienna, 24-25 April 2023
-- participating to the [Logic Colloquium](https://lc2023.unimi.it/), Milan, 5-9 June 2023
+- [BEWARE](https://sites.google.com/view/beware2023), Rome, 6-9 November 2023
+- [ItaCa](https://progetto-itaca.github.io/) Workshop, Turin, 18-19 December 2023
