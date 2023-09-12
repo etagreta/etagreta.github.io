@@ -29,7 +29,7 @@ I am interested in logic, category theory, and theoretical computer science.
 
 ### Miscellaneous
 
-- An open source tool to detect BIAS in your predictive algorithm (using logic!): BRIOxAlkemy ([about](https://sites.unimi.it/brio/brio-x-alkemy/), [git repo](https://github.com/DLBD-Department/BRIO_x_Alkemy))
+- An open source tool to detect bias in your predictive algorithm (using logic!): BRIOxAlkemy ([about](https://sites.unimi.it/brio/brio-x-alkemy/), [git repo](https://github.com/DLBD-Department/BRIO_x_Alkemy))
 - Guest post, _Identity types in context_ (j/w [Shreya Arya](https://shreyaarya.github.io/minimal/)), on the n-Category Café, July 2022 ([here](https://golem.ph.utexas.edu/category/2022/07/identity_types_in_context.html))
 - Seminario permanente, _Un numero finito di idee sulla definizione di infinito_, [ZEST!](https://www.facebook.com/ZEST.sapere.aude/), in the middle of 2020 ([recording](https://www.youtube.com/watch?v=JAulXUkkTXQ))
 
