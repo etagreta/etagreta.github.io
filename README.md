@@ -11,7 +11,7 @@ I am interested in logic, category theory, and theoretical computer science.
 - _Categorical models of subtyping_ (j/w Jacopo Emmenegger), in preparation
     - TYPES 2023, _Categorical models of subtyping_, 15 June 2023 ([recording](https://media.upv.es/#/portal/video/cbd0b3a0-3567-11ee-8317-3dc1d7f6252c))
 
-- _On the fibration of algebras_ (j/w Davide Castelnovo and Fosco Loregian), ongoing and stuck: [help us!](https://youtu.be/Z1SIYpMWWLU?t=2957)
+- _On the fibration of algebras_ (j/w Davide Castelnovo, Fosco Loregian, Ülo Reimaa), ongoing ([recording](https://youtu.be/Z1SIYpMWWLU?t=2957) of a talk Fosco gave a while back)
 
 - _Fuzzy type theory for opinion dynamics_ ([Adjoint School](https://adjointschool.com/2022.html) project tutored by Paige North), ongoing
     - ItaCa Workshop, _A fuzzy theory of types_, Pisa, 21 December 2022 ([slides](\docs/itacaws2022_coraglia_handout.pdf))
