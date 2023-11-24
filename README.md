@@ -30,12 +30,13 @@ I am interested in logic, category theory, and theoretical computer science.
 ### Miscellaneous
 
 - Dissemination corner in the [The Reasoner](http://thereasoner.org/), _BRIO: From topology to a logic of uncertainty_, November 2023 ([here](\docs/TheReasoner-176.pdf))
-- An open source tool to detect bias in your predictive algorithm (using logic!): BRIOxAlkemy ([about](https://sites.unimi.it/brio/brio-x-alkemy/), [git repo](https://github.com/DLBD-Department/BRIO_x_Alkemy), my [slides](\docs/coraglia-BEWARE2unbreak.pdf) at AIxIA)
+- An open source tool to detect bias in your predictive algorithm (using logic!): BRIOxAlkemy ([about](https://sites.unimi.it/brio/brio-x-alkemy/), [git repo](https://github.com/DLBD-Department/BRIO_x_Alkemy), my [slides](\docs/coraglia-BEWARE2unbreak.pdf) at AIxIA 2023)
 - Guest post, _Identity types in context_ (j/w [Shreya Arya](https://shreyaarya.github.io/minimal/)), on the n-Category Café, July 2022 ([here](https://golem.ph.utexas.edu/category/2022/07/identity_types_in_context.html))
 - Seminario permanente, _Un numero finito di idee sulla definizione di infinito_, [ZEST!](https://www.facebook.com/ZEST.sapere.aude/), in the middle of 2020 ([recording](https://www.youtube.com/watch?v=JAulXUkkTXQ))
 
 
 ### ... where to next?
 
-- [BEWARE](https://sites.google.com/view/beware2023) at AIxIA, Rome, 6-9 November 2023
+- Visiting [LAMA](https://www.lama.univ-savoie.fr/seminars/limd), Chambéry, end of November 2023
+- [Data science Milan meetup](https://www.meetup.com/data-science-milan/events/297537118/), Milan, 13 December 2023
 - [ItaCa](https://progetto-itaca.github.io/) Workshop, Turin, 18-19 December 2023
