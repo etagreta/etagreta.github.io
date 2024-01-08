@@ -10,7 +10,7 @@ I am interested in logic, category theory, and theoretical computer science.
 
 - On the internal logic of a Bayesian network (j/w Francesco A. Genco and Giuseppe Primiero)
 
-- _Categorical models of subtyping_ (j/w Jacopo Emmenegger), under review, [arXiv](https://arxiv.org/abs/2312.14600), December 2023
+- _Categorical models of subtyping_ (j/w Jacopo Emmenegger), under review, [arXiv:2312.14600](https://arxiv.org/abs/2312.14600), December 2023
     - TYPES 2023, _Categorical models of subtyping_, 15 June 2023 ([recording](https://media.upv.es/#/portal/video/cbd0b3a0-3567-11ee-8317-3dc1d7f6252c))
 
 - _On the fibration of algebras_ (j/w Davide Castelnovo, Fosco Loregian, Ülo Reimaa), ongoing, [secret draft here](https://tetrapharmakon.github.io/stuff/fibalg.pdf)
