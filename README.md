@@ -1,6 +1,6 @@
 # Greta Coraglia
 
-I am a postdoc with [LUCI Lab](https://luci.unimi.it/) at the University of Milan, working on the [BRIO](https://sites.unimi.it/brio/) project. I am also a member of the Scientific Committee of the [ItaCa](https://progetto-itaca.github.io/) community.
+I am a postdoc with [LUCI Lab](https://luci.unimi.it/) at the University of Milan, working on the [BRIO](https://sites.unimi.it/brio/) project. I am a member of the Scientific Committee of the [ItaCa](https://progetto-itaca.github.io/) community.
 
 I was previously a PhD student in the [Mathematics Department at the University of Genova](https://www2.dima.unige.it/), working under the supervision of [Pino Rosolini](https://www.dima.unige.it/~rosolini/) together with the rest of the [logic group](http://logic.dima.unige.it/) there.
 
@@ -8,7 +8,9 @@ I am interested in logic, category theory, and theoretical computer science.
 
 ### Research
 
-- _Categorical models of subtyping_ (j/w Jacopo Emmenegger), in preparation
+- On the internal logic of a Bayesian network (j/w Francesco A. Genco and Giuseppe Primiero)
+
+- _Categorical models of subtyping_ (j/w Jacopo Emmenegger), under review, [arXiv](https://arxiv.org/abs/2312.14600), December 2023
     - TYPES 2023, _Categorical models of subtyping_, 15 June 2023 ([recording](https://media.upv.es/#/portal/video/cbd0b3a0-3567-11ee-8317-3dc1d7f6252c))
 
 - _On the fibration of algebras_ (j/w Davide Castelnovo, Fosco Loregian, Ülo Reimaa), ongoing, [secret draft here](https://tetrapharmakon.github.io/stuff/fibalg.pdf)
@@ -38,6 +40,4 @@ I am interested in logic, category theory, and theoretical computer science.
 
 ### ... where to next?
 
-- Visiting [LAMA](https://www.lama.univ-savoie.fr/seminars/limd), Chambéry, end of November 2023
-- [Data science Milan meetup](https://www.meetup.com/data-science-milan/events/297537118/), Milan, 13 December 2023
-- [ItaCa](https://progetto-itaca.github.io/) Workshop, Turin, 18-19 December 2023
+Finally writing for a while!
