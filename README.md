@@ -8,7 +8,10 @@ I am interested in logic, category theory, and theoretical computer science.
 
 ### Research
 
-- On the internal logic of a Bayesian network (j/w Francesco A. Genco and Giuseppe Primiero)
+- _On the internal logic of a Bayesian network_ (j/w Francesco A. Genco and Giuseppe Primiero)
+
+- BRIOxAlkemy collab on detection of bias in AI:
+    - _A bias detecting tool_ (j/w D'Asaro, Genco, Giannuzzi, Posillipo, Primiero, Quaggio), published in the Proceedings of the 2nd Workshop on Bias, Ethical AI, Explainability and the role of Logic and Logic Programming, [link](https://ceur-ws.org/Vol-3615/paper4.pdf), January 2024
 
 - _Categorical models of subtyping_ (j/w Jacopo Emmenegger), under review, [arXiv:2312.14600](https://arxiv.org/abs/2312.14600), December 2023
     - TYPES 2023, _Categorical models of subtyping_, 15 June 2023 ([recording](https://media.upv.es/#/portal/video/cbd0b3a0-3567-11ee-8317-3dc1d7f6252c))
