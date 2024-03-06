@@ -22,7 +22,7 @@ I am interested in logic, category theory, and theoretical computer science.
 - _Fuzzy type theory for opinion dynamics_ ([Adjoint School](https://adjointschool.com/2022.html) project tutored by Paige North), ongoing
     - ItaCa Workshop, _A fuzzy theory of types_, Pisa, 21 December 2022 ([slides](\docs/itacaws2022_coraglia_handout.pdf))
 
-- _A 2-dimensional analysis of comprehension_ (j/w Jacopo Emmenegger), in preparation
+- _A 2-dimensional analysis of context comprehension_ (j/w Jacopo Emmenegger), [arXiv:2403.03085](https://arxiv.org/abs/2403.03085), March 2024
     - HoTT/UF Workshop, _A 2-dimensional analysis of comprehension_, 22 April 2023 ([slides](\docs/hottuf23-coraglia.pdf))
     - ItaCa Fest, _Comonads for dependent types_, online, 19 May 2022 ([slides](docs/coraglia_itacafest2022.pdf),[recording](https://www.youtube.com/watch?v=MZiqte09Tpw))
 
