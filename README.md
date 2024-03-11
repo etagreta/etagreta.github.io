@@ -4,7 +4,7 @@ I am a postdoc with [LUCI Lab](https://luci.unimi.it/) at the University of Mila
 
 I was previously a PhD student in the [Mathematics Department at the University of Genova](https://www2.dima.unige.it/), working under the supervision of [Pino Rosolini](https://www.dima.unige.it/~rosolini/) together with the rest of the [logic group](http://logic.dima.unige.it/) there.
 
-I am interested in logic, category theory, and theoretical computer science.
+I am interested in logic, category theory, and theoretical computer science. Currently, I am trying to use all of this for better AI practices and AI literacy.
 
 ### Research
 
@@ -43,4 +43,4 @@ I am interested in logic, category theory, and theoretical computer science.
 
 ### ... where to next?
 
-Finally writing for a while!
+- Giving a talk in the [HoTTEST seminar](https://www.math.uwo.ca/faculty/kapulkin/seminars/hottest.html) cycle, 14 March 2024
