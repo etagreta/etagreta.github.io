@@ -44,4 +44,4 @@ I am interested in logic, category theory, and theoretical computer science. Cur
 
 ### ... where to next?
 
-- Giving a talk in the [HoTTEST seminar](https://www.math.uwo.ca/faculty/kapulkin/seminars/hottest.html) cycle, 14 March 2024
+(writing!)
