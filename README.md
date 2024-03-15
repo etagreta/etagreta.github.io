@@ -18,14 +18,14 @@ I am interested in logic, category theory, and theoretical computer science. Cur
 
 - _On the fibration of algebras_ (j/w Davide Castelnovo, Fosco Loregian, Ülo Reimaa), ongoing, [secret draft here](https://tetrapharmakon.github.io/stuff/fibalg.pdf)
     - [recording](https://youtu.be/Z1SIYpMWWLU?t=2957) of a talk Fosco gave at the beginning of the project
-    - my talk at [HoTTEST](https://www.math.uwo.ca/faculty/kapulkin/seminars/hottest.html), 14 March 2024 ([recording](https://www.youtube.com/watch?v=vUj0pqbLYqQ), [slides](docs/coraglia_fibalg_nobreaks))
+    - my talk at [HoTTEST](https://www.math.uwo.ca/faculty/kapulkin/seminars/hottest.html), 14 March 2024 ([slides](docs/coraglia_fibalg_nobreaks), [recording](https://www.youtube.com/watch?v=vUj0pqbLYqQ))
 
 - _Fuzzy type theory for opinion dynamics_ ([Adjoint School](https://adjointschool.com/2022.html) project tutored by Paige North), ongoing
     - ItaCa Workshop, _A fuzzy theory of types_, Pisa, 21 December 2022 ([slides](\docs/itacaws2022_coraglia_handout.pdf))
 
 - _A 2-dimensional analysis of context comprehension_ (j/w Jacopo Emmenegger), [arXiv:2403.03085](https://arxiv.org/abs/2403.03085), March 2024
     - HoTT/UF Workshop, _A 2-dimensional analysis of comprehension_, 22 April 2023 ([slides](\docs/hottuf23-coraglia.pdf))
-    - ItaCa Fest, _Comonads for dependent types_, online, 19 May 2022 ([slides](docs/coraglia_itacafest2022.pdf),[recording](https://www.youtube.com/watch?v=MZiqte09Tpw))
+    - ItaCa Fest, _Comonads for dependent types_, online, 19 May 2022 ([slides](docs/coraglia_itacafest2022.pdf), [recording](https://www.youtube.com/watch?v=MZiqte09Tpw))
 
 - _Context, judgement, deduction_ (j/w Ivan Di Liberti), under review, [arXiv:2111.09438](https://arxiv.org/abs/2111.09438), November 2021
     - TallCat, _Coding deductive systems into a 2-category_, Tallinn, 5 May 2022 - courtesy of the [CSM group](https://compose.ioc.ee/)
