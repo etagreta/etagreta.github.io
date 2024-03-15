@@ -18,6 +18,7 @@ I am interested in logic, category theory, and theoretical computer science. Cur
 
 - _On the fibration of algebras_ (j/w Davide Castelnovo, Fosco Loregian, Ülo Reimaa), ongoing, [secret draft here](https://tetrapharmakon.github.io/stuff/fibalg.pdf)
     - [recording](https://youtu.be/Z1SIYpMWWLU?t=2957) of a talk Fosco gave at the beginning of the project
+    - my talk at [HoTTEST](https://www.math.uwo.ca/faculty/kapulkin/seminars/hottest.html), 14 March 2024 ([recording](https://www.youtube.com/watch?v=vUj0pqbLYqQ), [slides](docs/coraglia_fibalg_nobreaks))
 
 - _Fuzzy type theory for opinion dynamics_ ([Adjoint School](https://adjointschool.com/2022.html) project tutored by Paige North), ongoing
     - ItaCa Workshop, _A fuzzy theory of types_, Pisa, 21 December 2022 ([slides](\docs/itacaws2022_coraglia_handout.pdf))
