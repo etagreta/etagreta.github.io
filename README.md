@@ -44,4 +44,5 @@ I am interested in logic, category theory, and theoretical computer science. Cur
 
 ### ... where to next?
 
-(writing!)
+- Invited to [CATNIP](https://sites.google.com/view/catniporg/meetings?authuser=0) in Aberdeen, May 2024
+- [BRIO](https://sites.unimi.it/brio/) Open Research Meeting in Lecco, June 2024
