@@ -10,9 +10,9 @@ I am interested in logic, category theory, and theoretical computer science. Cur
 
 - Semantics for trust in probabilistic and opaque systems, in progress (j/w Francesco A. Genco and Giuseppe Primiero)
 
-- BRIOxAlkemy collab on detection of bias in AI:
-    - _A bias detecting tool_ (j/w D'Asaro, Genco, Giannuzzi, Posillipo, Primiero, Quaggio), Proceedings of the 2nd Workshop on Bias, Ethical AI, Explainability and the role of Logic and Logic Programming, [link](https://ceur-ws.org/Vol-3615/paper4.pdf), January 2024
-    - Risk for credit scoring, in progress
+- _Evaluating AI fairness in credit scoring with the BRIO tool_ (j/w Genco, Piantadosi, Bagli, Giuffrida, Posillipo, Primiero), [arXiv:2406.03292](https://arxiv.org/abs/2406.03292), May 2024
+
+- _A bias detecting tool_ (j/w D'Asaro, Genco, Giannuzzi, Posillipo, Primiero, Quaggio), Proceedings of the 2nd Workshop on Bias, Ethical AI, Explainability and the role of Logic and Logic Programming, [link](https://ceur-ws.org/Vol-3615/paper4.pdf), January 2024
 
 - _Categorical models of subtyping_ (j/w Jacopo Emmenegger), accepted for publication, [arXiv:2312.14600](https://arxiv.org/abs/2312.14600), December 2023
     - TYPES 2023, _Categorical models of subtyping_, 15 June 2023 ([recording](https://media.upv.es/#/portal/video/cbd0b3a0-3567-11ee-8317-3dc1d7f6252c))
