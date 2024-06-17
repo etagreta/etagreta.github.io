@@ -6,6 +6,8 @@ I was previously a PhD student in the [Mathematics Department at the University 
 
 I am interested in logic, category theory, and theoretical computer science. Currently, I am trying to use all of this for better AI practices and AI literacy.
 
+Lately I did something crazy and with some people we founded [MIRAI](https://mirai.systems/).
+
 ### Research
 
 - Semantics for trust in probabilistic and opaque systems, in progress (j/w Francesco A. Genco and Giuseppe Primiero)
