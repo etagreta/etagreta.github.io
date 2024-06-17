@@ -1,0 +1,168 @@
+\documentclass[a4paper,9pt]{article}
+\usepackage[left=1in, right=1in, top=.7in, bottom=.7in]{geometry}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{parskip}
+\usepackage{xcolor}
+\usepackage{fontawesome5}
+\usepackage[hidelinks]{hyperref}
+
+% Define el color verde olivo
+\definecolor{verdeolivo}{RGB}{85,107,47} % Puedes ajustar estos valores según tus preferencias
+\definecolor{glauco}{RGB}{91, 127, 197}
+
+\titleformat{\section}{\large\bfseries\color{verdeolivo}}{}{0em}{}[\titlerule]
+\titleformat{\subsection}[runin]{\bfseries\color{verdeolivo}}{}{0em}{}[:]
+
+\begin{document}
+
+\pagestyle{empty}
+
+%\section*{\faIcon{address-card} Contact Information}
+\begin{center}
+    \textbf{\Huge Greta Coraglia} \\
+%    \vspace{2mm}
+%    \faIcon{briefcase} Quality Engineer
+\vspace{2mm}
+    \faIcon{link} \url{https://etagreta.github.io/}
+	\qquad
+    \faIcon{envelope} \href{mailto:coraglia.eta@gmail.com}{coraglia.eta@gmail.com}
+	\qquad
+    \faIcon{map-marker-alt} Milan, Italy
+\end{center}
+
+
+\space
+\section*{\faIcon{user} Professional Profile}
+I am a mathematician interested in logic, category theory, and theoretical computer science, with a focus on using categorical tools to describe deductive systems. I am currently trying to use all of this to implement methods for ethical employment of AI.
+
+\section*{\faIcon{building} Relevant work experience}
+
+\subsection*{University of Milan \hfill Mar 2023 - present}
+\textit{ Postdoctoral researcher} \\
+Conducting research in the BRIO (Bias, Risk and Opacity in AI) project. Advancing logical methods to analyze AI fairness and estimate risks. Developing (open source) tools to implement the research -- in collaboration with private companies interested in their applications to credit scoring and such.% Working in a quite multi-disciplinary group, hence requiring a healthy amount of communication and open-mindedness, but proving to be a very enriching experience from the technical point of view.
+
+\subsection*{University of Genoa \hfill 2020 - 2022}
+\textit{TA for Linear Algebra}\\
+Teaching a semester-long course in Linear Algebra (Geometry) to first-year Electronic Engineering students, preparing exercises and exams. Improving my exposition skills, deepening my understanding of key concepts in linear algebra with a focus on its engineering applications.
+
+\section*{\faIcon{graduation-cap} Education}
+
+\subsection*{University of Genoa \hfill Nov 2019 - Aug 2023}
+\textit{Ph.D. in Mathematics}\\
+With a thesis titled ``Categorical structures for deduction'', supervised by prof. Giuseppe Rosolini. Developed expertise in: logic, category theory, theoretical computer science, type theory.
+
+\subsection*{University of Milan \hfill 2017 - 2019}
+\textit{M.Sc. in Mathematics}\\
+With a thesis titled ``A categorical perspective on Heyting-valued sets'', supervised by prof. Silvio Ghilardi and prof. Giuseppe Rosolini. Developed expertise in: logic, category theory, fuzzy logic, automated reasoning, formal methods.
+
+\subsection*{Stanford University (Coursera) \hfill 2017}
+\textit{Machine Learning certificate}\\
+ML fundamentals and implementation: predictive tasks, classification problems, clustering.
+
+\subsection*{University of Milan \hfill 2013 - 2017}
+\textit{B.Sc. in Mathematics}\\
+Developed expertise in: basic algebra, linear algebra, geometry, logic, foundations of mathematics.
+
+\section*{\faIcon{atom} Research projects}
+\subsection*{\href{https://arxiv.org/abs/2406.03292}{Risk assessment in credit scoring} \hfill 2023 - present}
+\textit{j/w BRIO@UniMi and Crif}\\
+Quantifying the risk inherent to opaque classification algorithms, with applications to credit scoring. In collaboration with companies operating in the private sector.
+
+\subsection*{\href{https://ceur-ws.org/Vol-3615/paper4.pdf}{Bias detection for opaque AI systems} \hfill 2023}
+\textit{j/w BRIO@UniMi and Alkemy}\\
+Developing a fairness metric based on a typed $\lambda$-calculus for probabilistic programs.
+
+\faIcon{angle-right}\, Presented at 22nd International Conference of the Italian Association for Artificial Intelligence (AI*IA 2023) and published in the Proceedings of the 2nd Workshop on Bias, Ethical AI, Explainability and the role of Logic and Logic Programming.
+
+\subsection*{\href{https://arxiv.org/abs/2312.14600}{Categorical models of subtyping} \hfill 2023}
+\textit{j/w J. Emmenegger}\\
+Using categorical tools to infer desirable notions of subtyping (related coercive subtyping).
+
+\faIcon{angle-right}\, Accepted for TYPES 2023 (Jun 2023) and 108th PSSL (Sep 2023), presented in an invited talk at the LAMA Group at Université Savoie Mont Blanc (Nov 2023), accepted for publication.
+
+\subsection*{On the fibration of algebras \hfill 2022 - present}
+\begin{flushright}
+\vspace{-.8em}
+\textit{j/w Castelnovo, Loregian, Martins-Ferreira, Ahman, Reimaa}
+\end{flushright}
+\vspace{-.5em}
+Studying algebraic properties of parametric endofunctors, co/monads, and their algebras. Using the theory of fibered categories to produce abstract results describing their behaviour.
+
+\faIcon{angle-right}\, Presented at an invited talk at HoTTEST (Mar 2024) and CATNIP (May 2024), in preparation.
+
+\subsection*{\href{https://arxiv.org/abs/2403.03085}{A 2-dimensional analysis of context comprehension} \hfill 2022 - 2024}
+\textit{j/w J. Emmenegger}\\
+Extending set-based models for dependent types to cat-based models. Studying the inherently coalgebraic nature of context comprehension.
+
+\faIcon{angle-right}\, Presented at invited talks at HoTT/UF (Apr 2023), accepted for a talk at ItaCa Fest (May 2022), submitted for publication.
+
+\subsection*{Fuzzy type theory for opinion dynamics \hfill 2022 - present}
+\textit{j/w Adjoint School}\\
+Using enriched category theory to provide suitable syntax and semantics for a fuzzy type theory, with the perspective of applying it to (sheaf) opinion dynamics.
+
+\faIcon{angle-right}\, Presented as a poster at ACT 2023 (by S.J. O'Connor) and at the Logic Colloquium (Jun 2023), in preparation.
+
+\subsection*{\href{https://arxiv.org/abs/2111.09438}{Context, judgement, deduction} \hfill 2021 - 2022}
+\textit{j/w I. Di Liberti}\\
+Introducing judgemental theories and their calculi as a general framework to present and study deductive systems. Specifying to dependent type theory and natural deduction as special kinds of judgemental theories.
+
+\faIcon{angle-right}\, Accepted talk at Logic and higher structures at CIRM (Feb 2022) and TACL (Jun 2022), presented at an invited talk for the Compositional Systems and Methods group at TalTech, accepted for publication.
+
+\section*{\faIcon{glasses} Para-academic activities}
+\textit{Organizing.} Contributed to the organization of Effectiveness and Continuity in Categorical Logic (Genoa, Sep 2024), Logic Colloquium (Milan, Jun 2023), 2nd ItaCa Workshop (Genoa, Dec 2021).
+
+\textit{Chairing.} Sitting on the Scientific Committee for ItaCa (since spring of 2023), on the Program Committee for TYPES 2024 and for ACT 2024.
+
+\textit{Reviewing.} Reviewed for the American Mathematical Society and for the International Journal of Approximate Reasoning.
+
+\textit{Honors and awards.} Won the prize for Best Master's Thesis in Logic (2019) awarded by the Italian Logic Association (AILA). Won several research and travel grants: the Adjoint School participation (2022), a stay at CIRM Marseille (2022) for ``Logic and Higher Structures'' and ``Linear Logic Winter School'', travel to the Symposium on Compositional Structures (SYCO, 2019), and invitations as in the previous section.
+
+\section*{\faIcon{user-friends} Social involvement}
+\textit{Popularization.} I am a strong believer in the necessity of democratizing knowledge. In my small way I tried
+to share mine: during COVID with some friends we organized community seminars on YouTube, and I gave one on the concept of infinity; in 2020 with a colleague we participated in a high school programme teaching logic (syllogisms and Turing machines) to high-school students; with ItaCa, I helped organizing a YouTube course in category theory with specialists in the topic; I wrote about constructive mathematics in a dissemination journal; with some friends and colleagues we are organizing a public conference to demystify the narrative on AI, to acknowledge its benefits, and to encourage action -- its first instance is scheduled for May 2024.
+
+\textit{Politics.} I organized a small civic movement and got elected with a civic list to my city's council. I am
+currently chief whip of the largest group in the council and vice-president of the council itself.
+My job consists in organizing the council's work around the issues of our interest, in advancing legislative
+proposals, in meeting with relevant offices and stakeholders, and in organizing public events both to inform
+and engage citizens in defining and enforcing public policies.
+
+\vfill
+\hfill\small\textit{Last updated: June 2024}
+
+%\section*{\faIcon{cogs} Technical Skills}
+%\begin{center}
+%    \begin{itemize}[label=\faIcon{check}, itemsep=-3pt]
+%        \item Process Validation
+%        \item Quality Regulations and Standards
+%        \item Risk Analysis
+%        \item Problem Solving
+%    \end{itemize}
+%\end{center}
+%
+%\section*{\faIcon{certificate} Certifications}
+%\begin{itemize}[label=\faIcon{certificate}]
+%    \item Prints Reading
+%    \item Applied Statistics in Medical Devices Manufacturing
+%    \item Design of Experiments (DOE)
+%    \item Root Cause Anlysis
+%\end{itemize}
+%
+%%\section*{\faIcon{code} Notable Projects}
+%%\subsection*{Project 1 \hfill Start Date - End Date}
+%%Description of the project and your contributions.
+%
+%%\subsection*{Project 2 \hfill Start Date - End Date}
+%%Description of the project and your contributions.
+%
+%\section*{\faIcon{language} Languages}
+%\begin{itemize}[label=\faIcon{globe}]
+%    \item Spanish - Native
+%    \item English - Business Competence
+%\end{itemize}
+%
+%\section*{\faIcon{thumbs-up} References}
+%For reference contact Jane Smith\\ \textbf{\faIcon{linkedin} LinkedIn:} \href{https://www.linkedin.com/in/jane-smith/}{jane-smith}
+
+\end{document}
