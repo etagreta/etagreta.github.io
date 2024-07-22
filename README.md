@@ -48,4 +48,5 @@ Lately I did something crazy and with some people we founded [MIRAI](https://mir
 
 ### ... where to next?
 
-- [BRIO](https://sites.unimi.it/brio/) Open Research Meeting in Lecco, June 2024
+- [Category Theory and Categorical Algebra](https://sites.google.com/view/beppemetere/ct-catalg), 9-10 September 2024, Milano
+- [Effectiveness and Continuity in Categorical Logic](https://logic.dima.unige.it/eccl-24/), 12-13 September 2024, Genova
