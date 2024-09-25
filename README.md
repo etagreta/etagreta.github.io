@@ -19,7 +19,7 @@ Lately I did something crazy and with some people we founded [MIRAI](https://mir
 - _Categorical models of subtyping_ (j/w Jacopo Emmenegger), LIPIcs Proceedings of TYPES 2023, [published v.](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.TYPES.2023.3), December 2023
     - TYPES 2023, _Categorical models of subtyping_, 15 June 2023 ([recording](https://media.upv.es/#/portal/video/cbd0b3a0-3567-11ee-8317-3dc1d7f6252c))
 
-- _Fibrations of algebras_ (j/w Davide Castelnovo, Fosco Loregian, Ülo Reimaa), [arXiv:2408.16581](https://arxiv.org/abs/2408.16581)
+- _Fibrations of algebras_ (j/w Davide Castelnovo, Fosco Loregian, Ülo Reimaa), submitted for publication, [arXiv:2408.16581](https://arxiv.org/abs/2408.16581)
     - [recording](https://youtu.be/Z1SIYpMWWLU?t=2957) of a talk Fosco gave at the beginning of the project
     - my talk at [HoTTEST](https://www.math.uwo.ca/faculty/kapulkin/seminars/hottest.html), 14 March 2024 ([slides](docs/coraglia_fibalg_nobreaks.pdf), [recording](https://www.youtube.com/watch?v=vUj0pqbLYqQ))
 
