@@ -40,7 +40,7 @@ Lately I did something crazy and with some people we founded [MIRAI](https://mir
 ### Miscellaneous
 
 -  _Dalle macchine alle persone: viaggio nel mondo dell'intelligenza artificiale_ (j/w I. Masnari, D. Posillipo), 2024 ([Lecco](https://leccotourism.it/dalle-macchine-alle-persone-viaggio-nel-mondo-dellintelligenza-artificiale/), [Segrate](https://storymaps.arcgis.com/stories/61af5f9b96584f22ae35213f0e551728))
-- _Dati sì, ma dati da chi?_, Museo Nazionale S&T Leonardo da Vinci, September 2024 [Open night](https://www.museoscienza.org/it/offerta/open-night)
+- _Dati sì, ma dati da chi?_, Museo Nazionale S&T Leonardo da Vinci, [Open night](https://www.museoscienza.org/it/offerta/open-night) in September 2024
 - _Matematica da costruire_, [Archimede](https://riviste.mondadorieducation.it/archimede/rivista/#num-4-2023), December 2023
 - Dissemination corner in the [The Reasoner](http://thereasoner.org/), _BRIO: From topology to a logic of uncertainty_, November 2023 ([here](\docs/TheReasoner-176.pdf))
 - An open source tool to detect bias in your predictive algorithm (using logic!): BRIOxAlkemy ([about](https://sites.unimi.it/brio/brio-x-alkemy/), [git repo](https://github.com/DLBD-Department/BRIO_x_Alkemy), my [slides](\docs/coraglia-BEWARE2unbreak.pdf) at AIxIA 2023)
