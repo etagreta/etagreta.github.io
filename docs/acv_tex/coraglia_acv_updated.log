@@ -1,7 +1,6 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.12) (preloaded format=latex 2024.10.1)  1 OCT 2024 12:39
+This is XeTeX, Version 3.141592653-2.6-0.999994 (MiKTeX 22.12) (preloaded format=xelatex 2023.4.17)  1 OCT 2024 13:01
 entering extended mode
  restricted \write18 enabled.
- Source specials enabled.
  %&-line parsing enabled.
 **./coraglia_acv_updated.tex
 (coraglia_acv_updated.tex
@@ -12,14 +11,14 @@ Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
 (C:\Users\gcora\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
 File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count185
-\c@section=\count186
-\c@subsection=\count187
-\c@subsubsection=\count188
-\c@paragraph=\count189
-\c@subparagraph=\count190
-\c@figure=\count191
-\c@table=\count192
+\c@part=\count181
+\c@section=\count182
+\c@subsection=\count183
+\c@subsubsection=\count184
+\c@paragraph=\count185
+\c@subparagraph=\count186
+\c@figure=\count187
+\c@table=\count188
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
@@ -37,9 +36,9 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 (C:\Users\gcora\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
 Package: iftex 2022/02/03 v1.0f TeX engine tests
 ))
-\Gm@cnth=\count193
-\Gm@cntv=\count194
-\c@Gm@tempcnt=\count195
+\Gm@cnth=\count189
+\Gm@cntv=\count190
+\c@Gm@tempcnt=\count191
 \Gm@bindingoffset=\dimen141
 \Gm@wd@mp=\dimen142
 \Gm@odd@mp=\dimen143
@@ -57,8 +56,8 @@ Package: enumitem 2019/06/20 v3.9 Customized lists
 \enit@outerparindent=\dimen149
 \enit@toks=\toks18
 \enit@inbox=\box51
-\enit@count@id=\count196
-\enitdp@description=\count197
+\enit@count@id=\count192
+\enitdp@description=\count193
 )
 (C:\Users\gcora\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
 Package: titlesec 2021/07/05 v2.14 Sectioning titles
@@ -85,16 +84,16 @@ Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
 ))
 (C:\Users\gcora\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count198
+\etb@tempcnta=\count194
 )) (C:\Users\gcora\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
 Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
 
 (C:\Users\gcora\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
 File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
-Package xcolor Info: Driver file: dvips.def on input line 227.
-(C:\Users\gcora\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\dvips.def
-File: dvips.def 2022/09/22 v3.1e Graphics/color driver for dvips
+Package xcolor Info: Driver file: xetex.def on input line 227.
+(C:\Users\gcora\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\xetex.def
+File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
 ) (C:\Users\gcora\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.lt
 x)
 Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
@@ -111,16 +110,14 @@ e5.sty
 (C:\Users\gcora\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
 Package: expl3 2022-12-17 L3 programming layer (loader) 
 
-(C:\Users\gcora\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-dvi
-ps.def
-File: l3backend-dvips.def 2022-10-26 L3 backend support: dvips
+(C:\Users\gcora\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-xet
+ex.def
+File: l3backend-xetex.def 2022-10-26 L3 backend support: XeTeX
+\g__graphics_track_int=\count195
 \l__pdf_internal_box=\box53
-\g__pdf_backend_object_int=\count199
-\l__pdf_backend_content_box=\box54
-\l__pdf_backend_model_box=\box55
-\g__pdf_backend_annotation_int=\count266
-\g__pdf_backend_link_int=\count267
-\g__pdf_backend_link_sf_int=\count268
+\g__pdf_backend_object_int=\count196
+\g__pdf_backend_annotation_int=\count197
+\g__pdf_backend_link_int=\count198
 ))
 Package: fontawesome5 2022/05/02 v5.15.4 Font Awesome 5
 
@@ -133,12 +130,19 @@ e.sty
 Package: xparse 2022-12-17 L3 Experimental document command parser
 )
 (C:\Users\gcora\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\fontawesom
-e5-generic-helper.sty
-Package: fontawesome5-generic-helper 2022/05/02 v5.15.4 non-uTeX helper for fon
-tawesome5
+e5-utex-helper.sty
+Package: fontawesome5-utex-helper 2022/05/02 v5.15.4 uTeX helper for fontawesom
+e5
+LaTeX Font Info:    Trying to load font information for TU+fontawesomefree on i
+nput line 69.
 
-(C:\Users\gcora\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\fontawesom
-e5-mapping.def)))
+(C:\Users\gcora\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\tufontawes
+omefree.fd)
+LaTeX Font Info:    Trying to load font information for TU+fontawesomebrands on
+ input line 70.
+
+(C:\Users\gcora\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\tufontawes
+omebrands.fd)))
 (C:\Users\gcora\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
 Package: hyperref 2022-11-13 v7.00u Hypertext links for LaTeX
 
@@ -153,7 +157,7 @@ Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
 )
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
-Package pdftexcmds Info: \pdfdraftmode is ignored in DVI mode.
+Package pdftexcmds Info: \pdfdraftmode not found.
 )
 (C:\Users\gcora\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
 keys.sty
@@ -182,16 +186,14 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 lestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count269
+\c@section@level=\count199
 )
 \@linkdim=\dimen155
-\Hy@linkcounter=\count270
-\Hy@pagecounter=\count271
+\Hy@linkcounter=\count266
+\Hy@pagecounter=\count267
 
 (C:\Users\gcora\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2022-11-13 v7.00u Hyperref: PDFDocEncoding definition (HO)
-Now handling font encoding PD1 ...
-... no UTF-8 mapping file for font encoding PD1
 )
 (C:\Users\gcora\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
@@ -199,11 +201,9 @@ Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 (C:\Users\gcora\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
 Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
 )
-\Hy@SavedSpaceFactor=\count272
+\Hy@SavedSpaceFactor=\count268
  (C:\Users\gcora\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2022-11-13 v7.00u Hyperref: PDF Unicode definition (HO)
-Now handling font encoding PU ...
-... no UTF-8 mapping file for font encoding PU
 )
 Package hyperref Info: Hyper figures OFF on input line 4162.
 Package hyperref Info: Link nesting OFF on input line 4167.
@@ -212,7 +212,7 @@ Package hyperref Info: Plain pages OFF on input line 4177.
 Package hyperref Info: Backreferencing OFF on input line 4182.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4410.
-\c@Hy@tempcnt=\count273
+\c@Hy@tempcnt=\count269
 
 (C:\Users\gcora\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
 \Urlmuskip=\muskip16
@@ -229,7 +229,7 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count274
+\Fld@menulength=\count270
 \Field@Width=\dimen157
 \Fld@charsize=\dimen158
 Package hyperref Info: Hyper figures OFF on input line 6027.
@@ -244,23 +244,24 @@ Package hyperref Info: PDF/A mode OFF on input line 6057.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count275
-\c@Item=\count276
-\c@Hfootnote=\count277
+\Hy@abspage=\count271
+\c@Item=\count272
+\c@Hfootnote=\count273
 )
-Package hyperref Info: Driver (default): hdvips.
-(C:\Users\gcora\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hdvips.def
-File: hdvips.def 2022-11-13 v7.00u Hyperref driver for dvips
+Package hyperref Info: Driver (autodetected): hxetex.
+(C:\Users\gcora\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hxetex.def
+File: hxetex.def 2022-11-13 v7.00u Hyperref driver for XeTeX
 
-(C:\Users\gcora\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pdfmark.def
-File: pdfmark.def 2022-11-13 v7.00u Hyperref definitions for pdfmark specials
-\pdf@docset=\toks20
-\pdf@box=\box56
-\pdf@toks=\toks21
-\pdf@defaulttoks=\toks22
-\HyField@AnnotCount=\count278
-\Fld@listcount=\count279
-\c@bookmark@seq@number=\count280
+(C:\Users\gcora\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.s
+ty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\pdfm@box=\box54
+\c@Hy@AnnotLevel=\count274
+\HyField@AnnotCount=\count275
+\Fld@listcount=\count276
+\c@bookmark@seq@number=\count277
 
 (C:\Users\gcora\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
 echeck.sty
@@ -279,7 +280,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 85.
 )
 \Hy@SectionHShift=\skip53
-))
+)
 
 LaTeX Warning: Unused global option(s):
     [9pt].
@@ -287,42 +288,50 @@ LaTeX Warning: Unused global option(s):
 (coraglia_acv_updated.aux)
 \openout1 = `coraglia_acv_updated.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 1
+9.
+
+(C:\Users\gcora\AppData\Local\Programs\MiKTeX\tex/latex/base\ts1cmr.fd
+File: ts1cmr.fd 2022/07/10 v2.5l Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
 
 *geometry* driver: auto-detecting
-*geometry* detected driver: dvips
+*geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
-* driver: dvips
+* driver: xetex
 * paper: a4paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(72.26999pt, 452.9679pt, 72.26999pt)
-* v-part:(T,H,B)=(50.58878pt, 743.8693pt, 50.58878pt)
+* h-part:(L,W,R)=(57.81621pt, 481.87546pt, 57.81621pt)
+* v-part:(T,H,B)=(43.36243pt, 758.32199pt, 43.36243pt)
 * \paperwidth=597.50787pt
 * \paperheight=845.04684pt
-* \textwidth=452.9679pt
-* \textheight=743.8693pt
-* \oddsidemargin=0.0pt
-* \evensidemargin=0.0pt
-* \topmargin=-58.68121pt
+* \textwidth=481.87546pt
+* \textheight=758.32199pt
+* \oddsidemargin=-14.45378pt
+* \evensidemargin=-14.45378pt
+* \topmargin=-65.90756pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -340,47 +349,29 @@ LaTeX Font Info:    ... okay on input line 17.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 17.
+Package hyperref Info: Link coloring OFF on input line 19.
 (coraglia_acv_updated.out) (coraglia_acv_updated.out)
 \@outlinefile=\write3
 \openout3 = `coraglia_acv_updated.out'.
 
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on i
-nput line 27.
-
-(C:\Users\gcora\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontaweso
-mefree2.fd)
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 27.
+(Font)              <7> on input line 29.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 27.
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on i
-nput line 29.
+(Font)              <5> on input line 29.
+ [1
 
-(C:\Users\gcora\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontaweso
-mefree1.fd)
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree3 on i
-nput line 36.
-
-(C:\Users\gcora\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontaweso
-mefree3.fd)
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree0 on i
-nput line 39.
-
-(C:\Users\gcora\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontaweso
-mefree0.fd) [1
-
-] [2] [3] (coraglia_acv_updated.aux)
+] [2]
+(coraglia_acv_updated.aux)
 Package rerunfilecheck Info: File `coraglia_acv_updated.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 12557 strings out of 476407
- 220959 string characters out of 2789593
- 1863784 words of memory out of 3000000
- 32803 multiletter control sequences out of 15000+600000
- 516487 words of font info for 46 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 65i,6n,67p,1211b,454s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 11261 strings out of 411566
+ 171773 string characters out of 2820184
+ 1862973 words of memory out of 3000000
+ 31297 multiletter control sequences out of 15000+600000
+ 512743 words of font info for 45 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 62i,6n,78p,1211b,332s stack positions out of 10000i,1000n,20000p,200000b,80000s
 
-Output written on coraglia_acv_updated.dvi (3 pages, 19832 bytes).
+Output written on coraglia_acv_updated.pdf (2 pages).
