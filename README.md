@@ -1,12 +1,12 @@
 # Greta Coraglia
 
-I am a postdoc with [LUCI Lab](https://luci.unimi.it/) at the University of Milan, working on the [BRIO](https://sites.unimi.it/brio/) project. I am a member of the Scientific Committee of the [ItaCa](https://progetto-itaca.github.io/) community.
+Until very recently I was a postdoc with [LUCI Lab](https://luci.unimi.it/) at the University of Milan, working on the [BRIO](https://sites.unimi.it/brio/) project. I was also a member of the Scientific Committee of the [ItaCa](https://progetto-itaca.github.io/) community.
 
 I was previously a PhD student in the [Mathematics Department at the University of Genova](https://www2.dima.unige.it/), working under the supervision of [Pino Rosolini](https://www.dima.unige.it/~rosolini/) together with the rest of the [logic group](http://logic.dima.unige.it/) there.
 
-I am interested in logic, category theory, and theoretical computer science. Currently, I am trying to use all of this for better AI practices and AI literacy.
+I am interested in logic, category theory, and theoretical computer science. Currently, I am trying to use all of this for better AI practices and AI literacy. A part of that has been founding [MIRAI](https://mirai.systems/).
 
-Lately I did something crazy and with some people we founded [MIRAI](https://mirai.systems/).
+*I’m exploring new opportunities, so if you come across an interesting challenge, I’d love to hear from you by email!*
 
 ### Research
 
