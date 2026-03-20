@@ -1,10 +1,8 @@
 # Greta Coraglia
 
-Mathematician turned applied AI researcher — specialising in Data Science, ML, and Generative AI, and driven by the challenge of making rigorous research into something practical, responsible, and socially useful.
+Mathematician turned applied AI researcher specialising in Data Science, ML, and Generative AI, and driven by the challenge of making rigorous research into something practical, responsible, and socially useful.
 
-I co-founded [MIRAI](https://mirai.systems/) with industry experts, driven by the conviction that AI compliance should be built on transparency and fairness, not just on ticking boxes. At MIRAI I led end-to-end R&D across several projects, combining applied research with hands-on development to turn ideas into concrete, working solutions.
-
-*I'm exploring new opportunities — if you come across an interesting challenge, I'd love to hear from you by email!*
+I co-founded [MIRAI](https://mirai.systems/) with industry experts, driven by the conviction that AI compliance should be built on transparency and fairness, not just on ticking boxes. At MIRAI I lead end-to-end R&D across several projects, combining applied research with hands-on development to turn ideas into concrete, working solutions.
 
 ---
 
@@ -12,19 +10,15 @@ I co-founded [MIRAI](https://mirai.systems/) with industry experts, driven by th
 
 My work sits at the bridge between research and engineering, ensuring theoretical insights become tested, maintainable, and explainable solutions aligned with regulatory requirements.
 
-**ML fairness & classification** — In-depth assessments of classification algorithms, analysing performance, robustness, and fairness metrics to inform model selection and deployment decisions.
+**ML fairness & classification.** In-depth assessments of classification algorithms, analysing performance, robustness, and fairness metrics to inform model selection and deployment decisions.
 
-**Generative AI & RAG** — Designed and evaluated Retrieval-Augmented Generation pipelines, focusing on retrieval quality, answer faithfulness, and end-to-end system performance. Research findings translated directly into architectural and implementation improvements.
-
----
-
-### MIRAI
-
-[MIRAI](https://mirai.systems/) is a company I co-founded with industry experts to help public and private organizations achieve regulatory compliance with transparency and fairness at its core.
+**Generative AI & RAG.** Designed and evaluated Retrieval-Augmented Generation pipelines, focusing on retrieval quality, answer faithfulness, and end-to-end system performance. Research findings translated directly into architectural and implementation improvements.
 
 ---
 
 ### Talks & Dissemination
+
+A few of my tries at making math and AI for everyone.
 
 - _Dalle macchine alle persone: viaggio nel mondo dell'intelligenza artificiale_ (j/w I. Masnari, D. Posillipo), 2024 ([video](https://youtu.be/3tduxZ9-qQ0?si=SyprzDq7neW5k0V) — [Lecco](https://leccotourism.it/dalle-macchine-alle-persone-viaggio-nel-mondo-dellintelligenza-artificiale/), [Segrate](https://storymaps.arcgis.com/stories/61af5f9b96584f22ae35213f0e551728))
 - _Dati sì, ma dati da chi?_, Museo Nazionale S&T Leonardo da Vinci, [Open night](https://www.museoscienza.org/it/offerta/open-night), September 2024
