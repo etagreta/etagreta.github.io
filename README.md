@@ -1,6 +1,6 @@
 # Greta Coraglia
 
-Mathematician turned applied AI researcher specialising in Data Science, ML, and Generative AI, and driven by the challenge of making rigorous research into something practical, responsible, and socially useful.
+I am a mathematician specializing in category theory, type theory, and theoretical computer science, with a strong drive to apply foundational ideas to real-world AI systems. My interest sits at the intersection of categorical and probabilistic reasoning: I am passionate about working out how compositionality can guide inference, enabling systems that are both expressive and transparent.
 
 I co-founded [MIRAI](https://mirai.systems/) with industry experts, driven by the conviction that AI compliance should be built on transparency and fairness, not just on ticking boxes. At MIRAI I lead end-to-end R&D across several projects, combining applied research with hands-on development to turn ideas into concrete, working solutions.
 

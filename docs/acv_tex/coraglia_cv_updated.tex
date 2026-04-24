@@ -1,5 +1,5 @@
-\documentclass[a4paper,11pt]{article}
-\usepackage[left=.8in, right=.8in, top=.6in, bottom=.6in]{geometry}
+\documentclass[a4paper,10pt]{article}
+\usepackage[left=.75in, right=.75in, top=.45in, bottom=.4in]{geometry}
 \usepackage{enumitem}
 \usepackage{titlesec}
 \usepackage{parskip}
@@ -17,6 +17,8 @@
 
 \titleformat{\section}{\large\bfseries\color{verdeolivo}}{}{0em}{}[\titlerule]
 \titleformat{\subsection}[runin]{\bfseries\color{verdeolivo}}{}{0em}{}[:]
+
+\newcommand{\ehi}[1]{\textbf{#1}}
 
 \begin{document}
 
@@ -41,13 +43,16 @@
 \space
 \vspace{.5cm}
 
-\begin{minipage}{0.62\textwidth}
+\begin{minipage}{0.6\textwidth}
 \section*{\faIcon{user} Professional profile}
-I am a mathematician at the intersection of rigorous research and applied AI development, with specialised expertise in Data Science, Machine Learning, and Generative AI. I am driven by the challenge of turning complex research into practical, responsible solutions that create real social value. A natural communicator and educator, I am passionate about making AI understandable and empowering for everyone. I lead with curiosity, stay calm under pressure, and thrive in collaborative, interdisciplinary environments where connecting people and ideas makes the difference.
+
+I am a mathematician specializing in category theory, type theory, and theoretical computer science, with a strong drive to apply foundational ideas to real-world AI systems. My interest sits at the intersection of categorical and probabilistic reasoning: I am passionate about working out how compositionality can guide inference, enabling systems that are both expressive and transparent.\vspace{.2cm}
+
+I thrive in roles that require moving between abstraction and implementation, translating rigorous mathematical structure into something people can understand and build with. I am collaborative, interdisciplinary by nature, and most energized when working with people with different perspectives.
 \end{minipage}\hfill
 \begin{minipage}{0.35\textwidth}
     \begin{center}
-    \includegraphics[width=.9\textwidth]{coraglia.jpg}
+    \includegraphics[width=.95\textwidth,trim={9cm 2.5cm 8cm 0.5},clip]{coraglia26.jpg}
 	\end{center}
 \end{minipage}
 
@@ -55,14 +60,12 @@ I am a mathematician at the intersection of rigorous research and applied AI dev
 \section*{\faIcon{building} Relevant work experience}
 
 \subsection*{MIRAI Srl \hfill Mar 2024 - present}
-\textit{Co-founder, AI Research Scientist} \\
-Co-founded a start-up with industry experts to help public and private organizations achieve regulatory compliance with transparency and fairness at its core. Led end-to-end R\&D across multiple projects, combining applied research with hands-on development to deliver concrete, production-ready solutions.
-On the Generative AI front, designed and evaluated Retrieval-Augmented Generation (RAG) pipelines, focusing on retrieval quality, answer faithfulness, and end-to-end system performance -- translating research findings directly into architectural and implementation improvements. On the Machine Learning side, conducted in-depth assessments of classification algorithms, analysing performance, robustness, and fairness metrics to inform model selection and deployment decisions.
-Throughout, acted as the bridge between research and engineering, ensuring that theoretical insights were systematically turned into tested, maintainable, and explainable solutions aligned with regulatory requirements.
+\textit{AI Research Scientist, Co-founder} \\
+Co-founded a company assessing ethics issues in AI, where I contribute to the development of formal and probabilistic methods applied to real-world systems. My R\&D work includes designing and implementing frameworks for fairness assessment in ML classification, formal approaches to risk quantification, and end-to-end evaluation pipelines for AI systems deployed by public and private sector clients.
 
 \subsection*{University of Pavia, AI Dept. \hfill Mar 2025 - present}
 \textit{Adjunct professor in Logics for AI} \\
-Lectured for the Logics for Practical Reasoning and AI course in the joint Bachelor’s program in Artificial Intelligence (UniPv–UniMi–UniMiB). This role expanded my expertise in causal graphs and honed my public speaking, communication, and organizational abilities.
+Lectured for the Logics course in the joint Bachelor’s program in Artificial Intelligence (UniPv--UniMi--UniMiB), with a focus on Bayesian networks and probabilistic graphical models for AI engineering students. Teaching at this level requires translating formal probabilistic reasoning into terms that engineering students can immediately apply, meaning I got to sharpen both my mathematics and my communication skills.
 
 \subsection*{Segrate City Council \hfill Sep 2020 - present}
 \textit{Majority chief whip} \\
@@ -73,18 +76,19 @@ Co-organized a civic movement and was elected to my city’s council on a civic 
 Conducted research in the BRIO (Bias, Risk, and Opacity in AI) project, advancing formal methods to assess AI fairness and risk. I co-developed open-source tools in partnership with private companies for real-world applications, such as to credit scoring. I benefitted from working within a multidisciplinary team, combining strong technical problem-solving with effective cross-sector communication.
 
 \subsection*{University of Genoa, Mathematics Dept. \hfill Nov 2019 - Aug 2023}
-\textit{Doctoral candidate in Mathematics}\\
+\textit{Doctoral candidate}\\
 Worked for a Ph.D. in Mathematics with specialization in logic, category theory, type theory, and theoretical computer science. I developed a strong foundation in rigorous problem-solving and abstract reasoning, with practical applications to formal system design, programming language theory, and algorithmic thinking.
 
-During this time, I also taught a Linear Algebra (Geometry) course to first-year Electronic Engineering students. That strengthened my ability to explain complex technical concepts clearly, while reinforcing my expertise in linear algebra with emphasis on its engineering applications in data modeling.
+During this time, I also taught a Linear Algebra (Geometry) course to first-year Electronic Engineering students. That strengthened my ability to explain complex technical concepts clearly, while reinforcing my expertise in linear algebra with an emphasis on its engineering applications in data modeling.
 
 %\subsection*{University of Genoa \hfill 2020 - 2022}
 %\textit{TA for Linear Algebra}\\
 %Taught Linear Algebra (Geometry) course to first-year Electronic Engineering students, designing exercises and assessments. That strengthened my ability to explain complex technical concepts clearly, while reinforcing my expertise in linear algebra with emphasis on its engineering applications in data modeling.
 
-
 \section*{\faIcon{cogs} Technical tools}
-Python, C, Git, SQL, tools for formal methods (SAT, SMT, Prolog, NuSMV).
+Python, C, Git, tools for formal methods (SAT, SMT).
+
+\pagebreak
 
 \section*{\faIcon{graduation-cap} Education}
 \textbf{University of Genoa} \hfill \textit{Nov 2019 -- Aug 2023} \\
@@ -159,7 +163,32 @@ Thesis: ``A categorical perspective on Heyting-valued sets'', sups: Profs. S. Gh
 %
 %\textit{Visiting.} Visited the Mathematics Department at the University of Aberdeen (May 2023), the Laboratoire de Mathématiques de l'Université Savoie Mont Blanc (Nov-Dec 2023), the Compositional Systems and Methods group at Tallinn's University of Technology (May 2022).
 %
-%\textit{Honors and awards.} Won the prize for Best Master's Thesis in Logic (2019) awarded by the Italian Logic Association (AILA). Won several research and travel grants: the Adjoint School participation (2022), a stay at CIRM Marseille (2022) for ``Logic and Higher Structures'' and ``Linear Logic Winter School'', travel to the Symposium on Compositional Structures (SYCO, 2019), and invitations as in the previous section.
+%\textit{Honors and awards.} Won the prize for Best Master's Thesis in Logic (2019) awarded by the Italian Logic Association (AILA). Won several research and travel grants: the Adjoint School participation (2022), a stay at CIRM Marseille (2022) for ``Logic and Higher Structures'' and ``Linear Logic Winter School'', travel to the Symposium on Compositional Structures (SYCO, 2019), and invitations as in the previous sectionz
+
+\section*{\faIcon{atom} Selected research}
+
+\textbf{\href{https://arxiv.org/abs/2406.03292}{Fuzzy type theory for opinion dynamics}} \textit{j/w ACT Adjoint School} \hfill \textit{2022 -- 2024} \\
+Applied enriched category theory to develop syntax and semantics for a fuzzy type theory, targeting probabilistic programming and opinion dynamics. \\
+\faIcon{angle-right}\, Presented as a poster at ACT 2023 and at the Logic Colloquium (Jun 2023).
+
+
+\textbf{\href{https://arxiv.org/abs/2408.16581}{On the fibration of algebras}} \textit{j/w Castelnovo, Loregian, Martins-Ferreira, Ahman, Reimaa}  \hfill \textit{2022 -- 2024} \\
+Studied algebraic properties of parametric endofunctors, co/monads, and their algebras using fibered category theory, producing abstract structural results about their behaviour. \\
+\faIcon{angle-right}\, Invited talks at HoTTEST (Mar 2024) and CATNIP (May 2024). Submitted for publication.
+
+
+\textbf{\href{https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.TYPES.2023.3}{Categorical models of subtyping}} \textit{j/w J. Emmenegger} \hfill \textit{2023} \\
+Used categorical tools to infer principled notions of subtyping, with connections to coercive subtyping and programming language semantics. \\
+\faIcon{angle-right}\, Published in the \emph{Proceedings of TYPES 2023}, 2024.
+
+\textbf{\href{https://arxiv.org/abs/2111.09438}{Context, judgement, deduction}} \textit{j/w I. Di Liberti} \hfill \textit{2021 -- 2022} \\
+Introduced judgemental theories and their calculi as a general framework for presenting and studying deductive systems, with dependent type theory and natural deduction as special cases. \\
+\faIcon{angle-right}\, Accepted talks at CIRM (Feb 2022) and TACL (Jun 2022); invited talk at the Compositional Systems and Methods group at TalTech. In publication.
+
+
+\textbf{\href{https://arxiv.org/abs/2406.03292}{Risk assessment in credit scoring}} \textit{j/w BRIO@UniMi}  \hfill \textit{2023 -- 2025} \\
+Quantified risk inherent to opaque ML classification algorithms, with real-world applications to credit scoring in collaboration with private sector companies. \\
+\faIcon{angle-right}\, Submitted for publication.
 
 \section*{\faIcon{glasses} Awards, certifications, and such}
 \textit{Academic.} Won the prize for Best Master's Thesis in Logic (2019) awarded by the Italian Logic Association (AILA). Won several research and travel grants: the Adjoint School participation (2022) in Glasgow, a stay at CIRM Marseille (2022) for ``Logic and Higher Structures'' and ``Linear Logic Winter School'', travel to the Symposium on Compositional Structures (SYCO, 2019) in Leicester, and invitations to visit the Mathematics Department at the University of Aberdeen (May 2023), the Laboratoire de Mathématiques de l'Université Savoie Mont Blanc (Nov-Dec 2023), the Compositional Systems and Methods group at Tallinn's University of Technology (May 2022).
@@ -182,16 +211,18 @@ Thesis: ``A categorical perspective on Heyting-valued sets'', sups: Profs. S. Gh
 %proposals, in meeting with relevant offices and stakeholders, and in organizing public events both to inform
 %and engage citizens in defining and enforcing public policies.
 
-\textit{Popularization.} I am a strong believer in the necessity of democratizing knowledge: during COVID with some friends we organized community seminars on YouTube, and I gave one on the concept of infinity; in 2020 with a colleague we participated in a high school programme teaching logic (syllogisms and Turing machines) to high-school students; with ItaCa, I helped organizing a YouTube course in category theory with specialists in the topic; I wrote about constructive mathematics in a dissemination journal; with some friends and colleagues we are organizing a public conference to demystify the narrative on AI, to acknowledge its benefits, and to encourage action.
+\textit{Popularization.} I am a strong believer in the necessity of democratizing knowledge: during COVID with some friends we organized community seminars on YouTube, and I gave one on the concept of infinity; in 2020 with a colleague we participated in a high school programme teaching logic (syllogisms and Turing machines) to high-school students; with ItaCa, I helped organizing a YouTube course in category theory with specialists in the topic; I wrote about constructive mathematics in a dissemination journal; with some friends and colleagues we organize public conferences to demystify the narrative on AI, to learn its benefits, and to encourage action.
 
 %\textit{Volunteering.}
 
-\textit{Translating etc (English).}  Translated two books and contributed to a community initiative preparing Italian subtitles for international works. Provided interpreting support for authors at an international book festival, facilitating communication across languages and cultures.
+%\textit{Translating etc (English).} I translated two books and contributed to a community initiative preparing Italian subtitles for international works. Provided interpreting support for authors at an international book festival, facilitating communication across languages and cultures.
 
 %\section*{\faIcon{leaf} Random}
 %\todo[inline]{Traduzione?}
 
 \vfill
-\hfill\small\textit{Last updated: March 2026}
+
+
+\footnotesize\textit{In compliance with the GDPR and the Italian Legislative Decree no. 196 dated 30/06/2003, I hereby authorize you to use and process my personal details contained in this document.}
 
 \end{document}
