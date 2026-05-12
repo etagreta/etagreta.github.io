@@ -2,6 +2,8 @@
 layout: plain
 title: "Elezioni comunali Segrate 2026: come si vota"
 og_image: /elezioni-imgs/ballot_segrate.png
+og_image_width: 1670
+og_image_height: 942
 ---
 
 # Elezioni comunali Segrate 2026
