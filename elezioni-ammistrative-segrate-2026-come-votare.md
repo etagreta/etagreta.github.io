@@ -1,6 +1,7 @@
 ---
 layout: plain
 title: "Elezioni comunali Segrate 2026: come si vota"
+description: "Guida pratica al voto per le elezioni comunali di Segrate del 24 e 25 maggio 2026."
 og_image: /elezioni-imgs/ballot_segrate_og.jpg
 og_image_width: 1200
 og_image_height: 630
