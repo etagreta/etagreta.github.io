@@ -17,7 +17,7 @@ Guida pratica al voto.
 </figure>
 
 
-_Mi chiamo Greta e sono candidata alle prossime elezioni comunali di Segrate. Ho messo insieme questa guida per spiegare come funziona il voto: indipendentemente da chi tu voglia votare, credo che esercitare questo diritto sia importante. In fondo se vuoi trovi poi due parole su di me e su chi sostengo._
+_Mi chiamo Greta Coraglia e sono candidata alle prossime elezioni comunali di Segrate. Ho messo insieme questa guida per spiegare come funziona il voto: indipendentemente da chi tu voglia votare, credo che esercitare questo diritto sia importante. In fondo se vuoi trovi poi due parole su di me e su chi sostengo._
 
 
 ---
@@ -28,7 +28,7 @@ Le elezioni comunali si terranno nei giorni **24 e 25 maggio 2026**. I seggi son
 
 ## Chi si candida
 
-Ci sono tre candidati sindaco, ognuno con le proprie liste collegate. Il voto decide due cose insieme: chi sarà il nuovo sindaco, e chi siederà nel Consiglio Comunale (l'organo locale che approva leggi e bilancio, simile a un parlamento in miniatura). I consiglieri vengono eletti in proporzione ai voti ricevuti dalle liste.
+Ci sono tre candidati sindaco, ognuno con le proprie liste collegate. Il voto decide due cose insieme: chi sarà il nuovo sindaco, e chi siederà nel Consiglio Comunale, l'organo locale che approva leggi e bilancio, simile a un parlamento in miniatura. I consiglieri vengono eletti (più o meno) in proporzione ai voti ricevuti dalle liste.
 
 Di seguito trovi ciascun candidato sindaco e le liste a lui collegate.
 
@@ -87,7 +87,7 @@ Per le elezioni comunali ricevi una scheda su cui compaiono i candidati sindaci 
 Segna solo il nome del candidato sindaco che preferisci. Il voto va al candidato e si distribuisce sulle liste collegate.
 
 **Opzione 2: voto alla lista.**
-Segna solo il simbolo della lista. Il voto va alla lista e si estende automaticamente al candidato sindaco collegato.
+Segna il simbolo della lista. Il voto va alla lista e si estende automaticamente al candidato sindaco collegato, che tu metta una croce anche sul nome del sindaco o no.
 
 **Opzione 3: voto disgiunto.**
 Segna un candidato sindaco e una lista collegata a un candidato diverso. I due voti rimangono separati: il tuo voto conta a favore del sindaco, ma la lista che hai scelto avrà più peso nella coalizione a cui appartiene.
